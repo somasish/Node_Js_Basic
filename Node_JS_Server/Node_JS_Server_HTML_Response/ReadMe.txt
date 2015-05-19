@@ -1,0 +1,2 @@
+The mentioned programs reads Port and Host Details from Config file and then returns HTML as response when any HTML file in the same location as of the JS file is called.
+Also there is a file watch for monitoring any changes in the config file.
